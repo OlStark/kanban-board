@@ -1,0 +1,82 @@
+.list {
+	width: 250px;
+    max-height: 100%;
+	background: rgba(235, 236, 240, 1);
+	padding: 20px;
+	border-radius: 8px;
+	box-sizing: border-box;
+	margin: 15px;
+	box-shadow: 2px 2px 8px rgb(0 0 0 / 20%);
+	overflow-x: hidden;
+}
+
+.list::-webkit-scrollbar {
+	height: 100px;
+	width: 0.75rem;
+}
+
+.list::-webkit-scrollbar-thumb {
+	background-color: #CBCBCB;
+	border-radius: 5px;
+}
+
+.list_title {
+	margin-top: 0;
+	font-style: normal;
+	overflow: hidden;
+	padding-bottom: 0.5rem;
+	
+}
+
+.task {
+	background-color: rgba(255, 255, 255, 1);
+	color: rgba(0, 0, 0, 1);
+	margin: 7px 0;
+	padding: 8px;
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+.task:hover {
+	text-decoration: underline;
+}
+
+.taskLink {
+	text-decoration: none;
+}
+
+.add_button {
+	background: none;
+	border: none;
+	appearance: none;
+	font-size: 15px;
+	color: #737373;
+	margin-top: 15px;
+	cursor: pointer;
+}
+
+.add_button:hover {
+	color: #000;
+}
+
+.select {
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	width: 100%;
+	overflow: auto;
+	margin: 15px 0 0 0;
+	cursor: pointer;
+	font-size: 1.2rem;
+	line-height: 1.3rem;
+	padding: 1,2rem;
+
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
+.option {
+	max-width: 100%;
+	overflow: auto;
+  }
