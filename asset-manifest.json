@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kanban-board/static/css/main.07b94887.css",
+    "main.js": "/kanban-board/static/js/main.a9b96973.js",
+    "static/media/Roboto-Regular.ttf": "/kanban-board/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "index.html": "/kanban-board/index.html",
+    "static/media/Add_task.svg": "/kanban-board/static/media/Add_task.d8fce16f935c6ec2b3e2a1f23c411e42.svg",
+    "static/media/Close_details.svg": "/kanban-board/static/media/Close_details.07da0694926a59cd9cff3da4b3c7cd7f.svg",
+    "main.07b94887.css.map": "/kanban-board/static/css/main.07b94887.css.map",
+    "main.a9b96973.js.map": "/kanban-board/static/js/main.a9b96973.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b94887.css",
+    "static/js/main.a9b96973.js"
+  ]
+}
